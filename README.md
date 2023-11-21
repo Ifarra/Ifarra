@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ifarra, the Anime Artist and RPG Enthusiast 🎨🎮
+# Hey there! 👋 I'm Ifarra 🤗
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ifarra&theme=tokyonight&background=45%2C122373%2C1C1829&border=312F68)](https://git.io/streak-stats)
 
@@ -9,13 +9,6 @@
 🎮 When I'm not creating art, you can find me exploring epic RPG worlds and battling monsters in my favorite games.
 
 💻 Currently leveling up my skills in Java and C++ to bring my creative ideas to the digital realm!
-
-## What I'm Up To
-
-- 🎨 Creating vibrant anime art [Instagram](https://www.instagram.com/ozanarafi_1324/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==) 
-- 🎮 Embarking on epic quests in the latest RPG games.
-- 💡 Learning the ins and outs of Java and C++ to code my own game characters.
-
 
 ## Let's Collaborate! 🤝
 

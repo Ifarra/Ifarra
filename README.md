@@ -12,7 +12,9 @@
 
 ## Let's Collaborate! 🤝
 
-I'm always open to collaboration and working on exciting projects. If you have ideas, suggestions, or just want to chat about anime, RPG games, or coding, feel free to reach out! Here are some ways to connect:  [Instagram](https://www.instagram.com/ozanarafi_1324/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==) 
+I'm always open to collaboration and working on exciting projects.
+If you have ideas, suggestions, or just want to chat about anime, RPG games, or coding, feel free to reach out!
+Here are some ways to connect:  [Instagram](https://www.instagram.com/ozanarafi_1324/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==) 
 
 Here's a sneak peek into my latest anime artwork.
 

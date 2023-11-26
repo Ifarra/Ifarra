@@ -5,7 +5,7 @@ I'm fueled by a boundless passion for bringing anime characters to life through 
 
 ### Excitement for Collaboration 🚀
 
-I thrive on collaboration and am super excited to work on projects that fuse creativity and technology. --> Learning new technologies is like unlocking new levels in a game for me – challenging, thrilling, and immensely rewarding.
+I thrive on collaboration and--> I am super excited to work on projects that fuse creativity and technology. Learning new technologies is like unlocking new levels in a game for me – challenging, thrilling, and immensely rewarding.
 
 ### What I Bring to the Table:
 

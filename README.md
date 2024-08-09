@@ -10,11 +10,11 @@ I am super excited to work on projects that fuse creativity and technology. Lear
 
 -->
 <a href="https://app.daily.dev/ifarra"><img src="https://api.daily.dev/devcards/v2/yfD9ozdcZBLEUdYqCoPkJ.png?type=wide&r=phg" width="605" alt="Ifarra's Dev Card"/></a>
-
+<!--
 ### Let's Build Something Awesome! 🌟
 
 <img src="https://skillicons.dev/icons?i=bash,cpp,cs,py,java,ts,html,js,css,git,github,githubactions,androidstudio,md,mysql,sqlite,firebase,stackoverflow,jenkins,vim,vscode,eclipse&perline=11">
-
+-->
 ### STREAK ✨
 
 <a href="https://git.io/streak-stats"><img width="612" src="https://github-readme-streak-stats.herokuapp.com?user=Ifarra&theme=tokyonight&card_width=600&background=45%2C122373%2C1C1829&border=312F68" alt="GitHub Streak" /></a>

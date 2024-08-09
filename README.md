@@ -9,7 +9,7 @@ I am super excited to work on projects that fuse creativity and technology. Lear
 
 
 -->
-<a href="https://app.daily.dev/ifarra"><img src="https://api.daily.dev/devcards/v2/yfD9ozdcZBLEUdYqCoPkJ.png?type=default&r=phg" width="356" alt="Ifarra's Dev Card"/></a>
+<a href="https://app.daily.dev/ifarra"><img src="https://api.daily.dev/devcards/v2/yfD9ozdcZBLEUdYqCoPkJ.png?type=wide&r=phg" width="652" alt="Ifarra's Dev Card"/></a>
 
 ### Let's Build Something Awesome! 🌟
 

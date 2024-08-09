@@ -7,7 +7,10 @@ I am super excited to work on projects that fuse creativity and technology. Lear
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifarra&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 
+
 -->
+<a href="https://app.daily.dev/ifarra"><img src="https://api.daily.dev/devcards/v2/yfD9ozdcZBLEUdYqCoPkJ.png?type=default&r=phg" width="356" alt="Ifarra's Dev Card"/></a>
+
 ### Let's Build Something Awesome! 🌟
 
 <img src="https://skillicons.dev/icons?i=bash,cpp,cs,py,java,ts,html,js,css,git,github,githubactions,androidstudio,md,mysql,sqlite,firebase,stackoverflow,jenkins,vim,vscode,eclipse&perline=11">

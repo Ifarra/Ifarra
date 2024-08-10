@@ -18,3 +18,5 @@ I am super excited to work on projects that fuse creativity and technology. Lear
 ### STREAK ✨
 
 <a href="https://git.io/streak-stats"><img width="612" src="https://github-readme-streak-stats.herokuapp.com?user=Ifarra&theme=tokyonight&card_width=600&background=45%2C122373%2C1C1829&border=312F68" alt="GitHub Streak" /></a>
+
+![](https://komarev.com/ghpvc/?username=Ifarra)

@@ -4,6 +4,8 @@
 I am super excited to work on projects that fuse creativity and technology. Learning new technologies is like unlocking new levels in a game for me – challenging, thrilling, and immensely rewarding.
 
 # My portfolio Web !!!!
+A really simple portfolio web i created using Next.js, Not 100% done yet, soon i'll connect my hashnode blog and daily.dev article, for daily dev is easy cus they have public API i belive, for hashnode idk, ill try
+
 [Ifarra's Portfolio](https://ifarra.vercel.app)
 <!--
 ### My fav Language:
